@@ -1,4 +1,3 @@
-/* 初始化 */
 *{
     padding: 0;
     margin: 0;
@@ -18,7 +17,6 @@ body{
     bottom: 0;
     left: 0;
     height: 100%;
-    /* 让他当作一个背景 */
     z-index: -1;
 }
 
